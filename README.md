@@ -1,2 +1,8 @@
 # Mr.Boby
-Open source do Mr.Boby Bot discord.js
+---
+Bot completo slash commands e etc.
+Economia firebase.
+Moderação.
+
+
+Create by: JeffinBR
